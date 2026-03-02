@@ -1,4 +1,4 @@
-package myProjects;
+package myProjects1;
 //Bu projede bir Online Sipariş ve Sepet Sistemi geliştirilecek. Tüm ürünler ve müşterinin sepeti ArrayList yapısında tutulacak.
 // Her ürün için ürün ID, ürün adı, fiyat, kategori (elektronik, giyim vb.) ve stok durumu bilgileri saklanacak.
 // Kullanıcı sistemde yeni ürün ekleyebilecek, ürün silebilecek, ürünleri listeleyebilecek ve ürün araması (isim ya da ID) yapabilecek.

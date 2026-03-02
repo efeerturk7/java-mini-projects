@@ -1,10 +1,7 @@
-package myProjects;
+package myProjects1;
 //Her giriş-çıkış loglanır.
 //Giriş geçmişi isme veya saate göre listelenebilir.
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.Objects;
-import java.util.Scanner;
 
 
 public class AkilliGirisSistemYonetimi {

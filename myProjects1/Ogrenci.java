@@ -1,4 +1,4 @@
-package myProjects;
+package myProjects1;
 //tüm öğrenciler ArrayList yapısında tutulacak. Öğrenciler için ID, isim, soyisim, not bilgileri saklanacak,
 // burslu öğrencilerde ayrıca burs miktarı bilgisi olacak. Kullanıcı; öğrenci ekleyebilecek, silebilecek, güncelleyebilecek,
 //  ve isim veya ID’ye göre arama yapabilecek.  Encapsulation (getter/setter),

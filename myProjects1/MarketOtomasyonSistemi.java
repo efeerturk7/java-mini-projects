@@ -1,7 +1,6 @@
-package myProjects;
+package myProjects1;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class MarketOtomasyonSistemi {
     public static void main(String[] args) {
